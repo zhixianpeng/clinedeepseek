@@ -1,0 +1,17 @@
+# 忽略真实的配置文件（含 Cookie）
+config.json
+
+# 忽略下载输出目录
+output/
+
+# VS Code 编辑器设置
+.vscode/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# 临时数据文件（不提交到仓库）
+*.xlsx
+*.txt
